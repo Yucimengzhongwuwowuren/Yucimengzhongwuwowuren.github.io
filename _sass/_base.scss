@@ -2,6 +2,13 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+@font-face {
+    font-family: 'Hanzi';
+    src: url('/assets/fonts/SuXinShiLiuKaiFan-1.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
 // Typography
 
 p,
@@ -16,20 +23,24 @@ div,
 li,
 span,
 strong {
+  font-family: 'Hanzi', sans-serif;
   color: var(--global-text-color);
 }
 
 hr {
+  font-family: 'Hanzi', sans-serif;
   border-top: 1px solid var(--global-divider-color);
 }
 
 table {
   td,
   th {
+    font-family: 'Hanzi', sans-serif;
     font-size: 1rem;
   }
 
   th {
+    font-family: 'Hanzi', sans-serif;
     font-weight: bold;
   }
 }
@@ -72,6 +83,7 @@ blockquote {
     background-color: var(--global-tip-block-bg);
 
     p {
+      font-family: 'Hanzi', sans-serif;
       color: var(--global-tip-block-text);
     }
 
@@ -81,6 +93,7 @@ blockquote {
     h4,
     h5,
     h6 {
+      font-family: 'Hanzi', sans-serif;
       color: var(--global-tip-block-title);
     }
   }
@@ -99,6 +112,7 @@ blockquote {
     h4,
     h5,
     h6 {
+      font-family: 'Hanzi', sans-serif;
       color: var(--global-warning-block-title);
     }
   }
@@ -117,6 +131,7 @@ blockquote {
     h4,
     h5,
     h6 {
+      font-family: 'Hanzi', sans-serif;
       color: var(--global-danger-block-title);
     }
   }
