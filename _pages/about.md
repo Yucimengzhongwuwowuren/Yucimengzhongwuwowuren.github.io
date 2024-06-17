@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: 概述
 permalink: /
 subtitle: The One
 
