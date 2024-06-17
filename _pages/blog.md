@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /massivenus/
+permalink: /blog/
 title: 大事件
 nav: true
 nav_order: 1
