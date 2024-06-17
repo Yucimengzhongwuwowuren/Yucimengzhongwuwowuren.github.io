@@ -3,10 +3,6 @@
  ******************************************************************************/
 // Typography
 
-p {
-    font-size: 1.2rem; /* Slightly larger size for paragraphs */
-}
-
 p,
 h1,
 h2,
@@ -71,6 +67,7 @@ blockquote {
 
   p {
     margin-bottom: 0;
+    font-size: 1.5rem;
   }
 
   /* Tips, warnings, and dangers blockquotes */
