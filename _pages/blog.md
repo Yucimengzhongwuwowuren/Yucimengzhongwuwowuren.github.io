@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /Contents/
-title: 目录
+permalink: /massivenus/
+title: 大事件
 nav: true
 nav_order: 1
 pagination:
