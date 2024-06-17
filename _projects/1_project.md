@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 后记: 如此耀眼
+title: 后记
 description: 
 img: 
 importance: 1
