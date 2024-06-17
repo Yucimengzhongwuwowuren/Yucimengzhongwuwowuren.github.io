@@ -1,6 +1,6 @@
 ---
 layout: Timeline
-permalink: /Timeline/
+permalink: /cv/
 title: 时间轴
 nav: true
 nav_order: 5
