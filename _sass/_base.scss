@@ -3,6 +3,7 @@
  ******************************************************************************/
 // Typography
 
+p,
 h1,
 h2,
 h3,
@@ -16,12 +17,6 @@ span,
 strong {
   font-family: 'Hanzi', sans-serif;
   color: var(--global-text-color);
-}
-
-p {
-  font-family: 'Hanzi', sans-serif;
-  color: var(--global-text-color);
-  font-size: 14px;
 }
 
 hr {
