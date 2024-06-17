@@ -3,7 +3,6 @@
  ******************************************************************************/
 // Typography
 
-p,
 h1,
 h2,
 h3,
@@ -16,6 +15,10 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+}
+
+p {
+  font-size: 14px;
 }
 
 hr {
