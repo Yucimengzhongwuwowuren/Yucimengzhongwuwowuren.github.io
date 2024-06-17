@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /Chapters/
-title: Chapters
+permalink: /Contents/
+title: Contents
 nav: true
 nav_order: 1
 pagination:
