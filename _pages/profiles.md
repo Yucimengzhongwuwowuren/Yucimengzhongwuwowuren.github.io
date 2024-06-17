@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /characters/
+title: 登场人物
+description: Characters
 nav: true
 nav_order: 7
 
