@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 大事件
-permalink: /massivenews/
-description: Massive News
+title: 正文
+permalink: /context/
+description: Context
 nav: true
 nav_order: 3
 display_categories: [work]
