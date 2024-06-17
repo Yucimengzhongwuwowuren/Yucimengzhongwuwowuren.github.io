@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /Contents/
-title: Contents
+title: 目录
 nav: true
 nav_order: 1
 pagination:
