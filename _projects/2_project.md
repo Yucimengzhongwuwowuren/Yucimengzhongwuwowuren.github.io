@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 其一. 我曾经有本藏起的日记
+title: 序. 我曾经有本藏起的日记
 description:
 img:
 importance: 1
