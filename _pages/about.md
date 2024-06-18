@@ -9,7 +9,7 @@ profile:
   image: TO_cover.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Samidare (五月雨), music credit to Yasuharu Takanashi (高梨康治) 
+    高梨康治 《五月雨》 
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
