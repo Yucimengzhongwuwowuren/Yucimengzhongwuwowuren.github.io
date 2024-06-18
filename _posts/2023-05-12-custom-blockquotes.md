@@ -2,130 +2,17 @@
 layout: post
 title: 威尼斯商人首演顺利落幕
 date: 2011-05-21 15:53:00-0400
-description: 2014年，十一中高二三班选送剧目。莎士比亚原作，王和平担纲改编。
+description: 2011年戏剧节，十一中高二三班选送剧目
 tags: 高二三班
 categories: 戏剧节
 giscus_comments: true
 related_posts: true
 ---
 
-This post shows how to add custom styles for blockquotes. Based on [jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) implementation.
+威尼斯商人（英语：The Merchant of Venice），又名《威尼斯的犹太人》，是莎士比亚的喜剧作品。2011年，十一中高二三班于每年一度的戏剧节选送此剧目当中的第四幕及最终幕，经过改编之后，进行了全新的演绎。
 
-We decided to support the same custom blockquotes as in [jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html), which are also found in a lot of other sites' styles. The styles definitions can be found on the [\_base.scss](https://github.com/alshedivat/al-folio/blob/master/_sass/_base.scss) file, more specifically:
+> 原作：威廉·莎士比亚
 
-```scss
-/* Tips, warnings, and dangers */
-.post .post-content blockquote {
-  &.block-tip {
-    border-color: var(--global-tip-block);
-    background-color: var(--global-tip-block-bg);
+> 改编：王和平
 
-    p {
-      color: var(--global-tip-block-text);
-    }
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      color: var(--global-tip-block-title);
-    }
-  }
-
-  &.block-warning {
-    border-color: var(--global-warning-block);
-    background-color: var(--global-warning-block-bg);
-
-    p {
-      color: var(--global-warning-block-text);
-    }
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      color: var(--global-warning-block-title);
-    }
-  }
-
-  &.block-danger {
-    border-color: var(--global-danger-block);
-    background-color: var(--global-danger-block-bg);
-
-    p {
-      color: var(--global-danger-block-text);
-    }
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      color: var(--global-danger-block-title);
-    }
-  }
-}
-```
-
-A regular blockquote can be used as following:
-
-```markdown
-> This is a regular blockquote
-> and it can be used as usual
-```
-
-> This is a regular blockquote
-> and it can be used as usual
-
-These custom styles can be used by adding the specific class to the blockquote, as follows:
-
-<!-- prettier-ignore-start -->
-
-```markdown
-> ##### TIP
->
-> A tip can be used when you want to give advice
-> related to a certain content.
-{: .block-tip }
-```
-
-> ##### TIP
->
-> A tip can be used when you want to give advice
-> related to a certain content.
-{: .block-tip }
-
-```markdown
-> ##### WARNING
->
-> This is a warning, and thus should
-> be used when you want to warn the user
-{: .block-warning }
-```
-
-> ##### WARNING
->
-> This is a warning, and thus should
-> be used when you want to warn the user
-{: .block-warning }
-
-```markdown
-> ##### DANGER
->
-> This is a danger zone, and thus should
-> be used carefully
-{: .block-danger }
-```
-
-> ##### DANGER
->
-> This is a danger zone, and thus should
-> be used carefully
-{: .block-danger }
-
-<!-- prettier-ignore-end -->
+> 梗概：法庭之上，千钧一发。鲍西娅装扮成法学博士，智斗夏洛克，救回安东尼奥的性命。事后她向巴萨尼奥讨来结婚戒指作为胜诉的酬劳。二人后在庄园对峙，说起法庭上安东尼奥与巴萨尼奥激愤时的种种发言，最终不欢而散。
