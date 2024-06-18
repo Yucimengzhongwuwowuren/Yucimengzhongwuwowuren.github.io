@@ -1,10 +1,10 @@
 ---
 layout: post
-title: a post with custom blockquotes
-date: 2023-05-12 15:53:00-0400
-description: an example of a blog post with custom blockquotes
-tags: formatting blockquotes
-categories: sample-posts
+title: 威尼斯商人首演顺利落幕
+date: 2011-05-21 15:53:00-0400
+description: 2014年，十一中高二三班选送剧目。莎士比亚原作，王和平担纲改编。
+tags: 高二三班
+categories: 戏剧节
 giscus_comments: true
 related_posts: true
 ---
