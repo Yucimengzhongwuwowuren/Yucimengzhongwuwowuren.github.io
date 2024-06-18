@@ -1,10 +1,10 @@
 ---
 layout: post
-title: a post with table of contents
-date: 2023-03-20 11:59:00-0400
-description: an example of a blog post with table of contents
-tags: formatting toc
-categories: sample-posts
+title: 红五月歌咏比赛全记录
+date: 2010-05-21 11:59:00-0400
+description: 高一三班全体敬上。由前方记者从十一中大礼堂实时播报战况。
+tags: 高一三班
+categories: 红五月
 giscus_comments: true
 related_posts: false
 toc:

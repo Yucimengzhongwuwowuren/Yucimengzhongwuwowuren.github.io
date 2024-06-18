@@ -1,10 +1,10 @@
 ---
 layout: post
-title: a post with table of contents on a sidebar
-date: 2023-04-25 10:14:00-0400
-description: an example of a blog post with table of contents on a sidebar
-tags: formatting toc sidebar
-categories: sample-posts
+title: 祝大家双蛋快乐！
+date: 2010-12-25 10:14:00-0400
+description: 来自高二三班的新年祝福
+tags: 高二三班
+categories: 节日祝福
 giscus_comments: true
 related_posts: false
 toc:
