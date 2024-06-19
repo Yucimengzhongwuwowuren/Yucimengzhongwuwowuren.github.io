@@ -1,11 +1,11 @@
 ---
 layout: cv
-permalink: /Timeline/
-title: 时间线
+permalink: /Content/
+title: 目录
 nav: true
-nav_order: 5
+nav_order: 2
 cv_pdf: example_pdf.pdf
-description: Timeline and Content
+description: Content and timeline
 toc:
   sidebar: left
 ---
