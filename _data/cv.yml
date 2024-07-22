@@ -41,7 +41,7 @@
 - title: 成年时期
   type: time_table
   contents:
-    - title: 那一年，那些年
+    - title: 最肯忘却古人诗
       year: 2021.06
     - title: 我们的故事
       year: 2021.11
@@ -51,6 +51,8 @@
       year: 2024.02
     - title: Echos from 2013
       year: 2024.02
+    - title: 这世界这么多人
+      year: 2024.07
     - title: 假如让我说下去
       year: 2024.09
     - title: 再见, 初恋
@@ -58,9 +60,9 @@
 - title: 番外篇
   type: time_table
   contents:
-    - title: 拜启，给十一岁的我们
+    - title: 拜启，给十四岁的我们
       year: 2025.06
     - title: 双城记
       year: 2025.12
     - title: 于加利福尼亚艳阳下
-      year: 2021.06
+      year: 2026.06
